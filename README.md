@@ -1,2 +1,1 @@
-# HDCSE57_WEB_Development
-ICBT Southern Campus Web Development workplace
+# AI_Language_Translator
